@@ -4,7 +4,7 @@ This project analyzes the academic performance and placement status of 6,000 stu
 
 ### What is Inside This Project?
 
-* **ecommerce_sales_dashboard.pbix** - The final Power BI dashboard with interactive charts tracking academic risk categories and performance tiers.
+* **student_analytics_dashboard.pbix** - The final Power BI dashboard with interactive charts tracking academic risk categories and performance tiers.
 * **Student_Performance_Analysis.ipynb** - The Jupyter Notebook containing data understanding, data cleaning, and statistical summaries.
 * **student_performance_dataset_6000_real_names.csv** - The raw dataset containing student names, attendance, marks, study hours, and placement status.
 
